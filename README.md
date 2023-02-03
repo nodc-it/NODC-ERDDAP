@@ -41,5 +41,3 @@ Search for the dataset id of the dataset: <span style="color:green;"> E2M3A_TS <
 - A dataset in ERDDAP can be downloaded in many different file types, based on what you need.
 - You can subset a dataset based on constraining the variables.
 
-
-*this walk through was based/modified from: [Reusing Open Data with ERDDAP and Python](https://k-rns.github.io/workshop_data_reuse/) a Python based tutorial by Karen Soenen ([@k-rns](https://github.com/k-rns)) on using data published through Erddap aimed at the ocean sciences.
